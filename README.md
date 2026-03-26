@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-A full-stack academic management portal designed specifically for students at the Sikkim Manipal Institute of Technology. The application centralizes essential campus resources—ranging from live timetables to digital library access—into a single, responsive dashboard to improve student organization and productivity.
+A full-stack academic management portal designed specifically for students and teachers. The application centralizes essential campus resources—ranging from live timetables to digital library access—into a single, responsive dashboard to improve student organization and productivity.
 
 ## 🚀 Features
 
