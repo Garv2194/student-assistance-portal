@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SMIT Digital Student Assistance App
 
 ## 📌 Description
@@ -56,3 +57,9 @@ npm run dev
 ## 👨‍💻 Author
 
 Garv Mall
+## 📸 Screenshots
+
+![Timetable](./ScreenshotTimetable.png)
+![Academic Notice](./ScreenshotAcademicNotice.png)
+![Library](./ScreenshotLibrary.png)
+![Event](./ScreenshotEvent.png)
