@@ -31,7 +31,8 @@ git clone https://github.com/Garv2194/student-assistance-portal.git
 
 ```bash
 npm install
-cd server && npm install
+cd server 
+npm install
 ```
 
 ### 3. Run the project
