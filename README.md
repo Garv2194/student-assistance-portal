@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SMIT Digital Student Assistance App
 
 ## 📌 Description
@@ -52,6 +51,10 @@ npm run dev
 
 ## 📸 Screenshots
 
+![Timetable](./ScreenshotTimetable.png)
+![Academic Notice](./ScreenshotAcademicNotice.png)
+![Library](./ScreenshotLibrary.png)
+![Event](./ScreenshotEvent.png)
 
 
 ## 👨‍💻 Author
